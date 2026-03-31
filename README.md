@@ -1,17 +1,11 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=FFB9B9&&height=200&section=header&text=Bokyung%20Lee&fontSize=50) -->
+<div>
 
-<div align="center">
-
-## About Me🖐️
 ### 💻 Data Engineer at Metric Studio Inc. (NNT Tech)
 
 💡 Interested in _Database, Bigdata Processing_, and _Data Engineering_   
 📝 Have a **SQLD**, **정보처리기사** certificate         
 🏫 Graduated from Sookmyung Women's University, Software Convergence Major
 
-<br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbokyung124&count_bg=%239DCF78&title_bg=%231D1D1D&icon=github.svg&icon_color=%23E7E7E7&title=HI&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ### Contact
 <a href="mailto:leebk1124@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -23,38 +17,9 @@
 
 <br>
 
-<div align="center">
+<div>
 
-## Currently Interested 💻
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache%20kafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google BigQuery-669DF6?style=flat-square&logo=Google%20BigQuery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
-
-
-</div>
-
-<br>
-
-<div align="center">
-
-## Activities🤍
+## Activities
 
 |기간|활동명|주제|비고|Github|
 |---|---|---|---|---|
@@ -74,7 +39,7 @@
 
 <br>
 
-<div align="center">
+<div>
 
 ## 💻 Studying 💻
 
