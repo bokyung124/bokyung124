@@ -3,7 +3,7 @@
 ### 💻 Data Engineer at Metric Studio Inc. (NNT Tech)
 
 💡 Interested in _Database, Bigdata Processing_, and _Data Engineering_   
-📝 Have a **SQLD**, **정보처리기사** certificate         
+📝 Have a **SQLD**, **정보처리기사**, **AWS SAA** certificate         
 🏫 Graduated from Sookmyung Women's University, Software Convergence Major
 
 
