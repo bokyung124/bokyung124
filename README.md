@@ -19,7 +19,8 @@
 
 <div>
 
-## Activities
+<details>
+<summary><h3>Activities</h3></summary>
 
 |기간|활동명|주제|비고|Github|
 |---|---|---|---|---|
@@ -34,6 +35,8 @@
 |2023|숙명여대 SW중심대학 산학협력연구단|대용량 정형 데이터 대상 개인정보 가명.익명화를 위한 자동처리 기술|Mapreduce - join 연산 구현|[MapReduce](https://github.com/bokyung124/MapReduce_InnerJoin) </br> [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705448)|
 |2023|ICT 스마트 해상물류 멘토링 프로젝트|딥러닝을 활용한 컨테이너 물동량 예측|팀장|[DL](https://github.com/bokyung124/ICT_DL) </br> [Paper](https://koreascience.kr/article/CFKO202333854992270.page)|
 |2023-2024|KDT 프로그래머스 데이터 엔지니어링 데브코스 2기|Python, DW, Hadoop, Airflow||[TIL](https://bokyung124.github.io/categories.html#h-Data%20Engineering)<br>[Project1](https://github.com/bokyung124/tech_dashboard/tree/main)<br>[Project2](https://github.com/bokyung124/NASDAQ_Superset)<br>[Project3](https://github.com/bokyung124/Airflow_Airport)<br>[Final Project](https://github.com/bokyung124/FoodPalette)|
+
+</details>
 
 <!--
 
